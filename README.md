@@ -36,3 +36,4 @@ Focar na habilidade de escrever códigos limpos de boa aparência e com uma boa 
 ## Autor
 
 - Github - [Pedro Henrique](https://github.com/pk-hue)
+- OBS - terminei a uma semnana esse projeto, mas tive que me mudar de casa então por isso demorei um pouco mais para mandar.
