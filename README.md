@@ -27,7 +27,7 @@ Essa é a minha solução para o desafio [Figma Formulário](https://www.figma.c
 
 ### Pratica de Aprendizado
 
-Nesse projeto foi possível por em prática em especial algumas tecnologias de javacript, sendo assim possível criar um layout responsivo para ambos tipos de aparelhos e navegadores.  
+Nesse projeto foi possível por em prática em especial algumas tecnologias de javacript, sendo assim possível criar um layout responsivo para ambos tipos de aparelhos e navegadores. 
 
 ### Habilidades em Desenvolvimento
 
